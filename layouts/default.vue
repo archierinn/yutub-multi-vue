@@ -44,7 +44,8 @@
     <v-app-bar
       fixed
       app
-      color="white"
+      dark
+      color="primary"
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-toolbar-title>
